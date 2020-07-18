@@ -26,6 +26,8 @@
   ## Usage
 
   To begin, the user will need to type "node app.js" into their terminal.  Then, the program will initiate, and ask the user a series of questions.  For each member the program will ask for their: name, id (number), email, and what their role is.  The roles available include: Manager, Engineer, and Intern.  Once the role has been selected, another question will be asked based on the result.  Office phone number for Managers, Github usernames for Engineers, and school for Interns.  Once all team member info has been given, the program will then create an HTML file that shows all of their information in a neat and organized format.
+  
+  Video Demonstration: https://www.youtube.com/watch?v=ZsKCWhe5cm0&t=7s
 
   ## Contributors
 
